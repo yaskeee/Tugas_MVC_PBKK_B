@@ -12,4 +12,4 @@ halaman pertama yang ditampilkan adalah halaman home page dari web, lalu akan ad
 
 tombol pertama menyambungkan user dengan halaman Input dimana user dapat memasukkan inputan yang nanti akan ditampilkan di halaman outputnya.
 
-tomboll kedua adalah tobo untuk melihat halaman output dimana user sapat melihat hasil output dari input yang telah dimasukkan.
+tombol kedua adalah tobo untuk melihat halaman output dimana user sapat melihat hasil output dari input yang telah dimasukkan.
